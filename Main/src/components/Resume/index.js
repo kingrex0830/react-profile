@@ -5,7 +5,7 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href={require(`../../assets/resume.pdf`)} download>resume</a>
+        Download my <a href={require(`../../assets/Resume.pdf`)} download>resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
